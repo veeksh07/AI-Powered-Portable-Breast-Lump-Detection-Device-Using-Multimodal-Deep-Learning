@@ -1,0 +1,10 @@
+*.keras
+*.h5
+*.pkl
+*.npy
+*.weights.h5
+data/thermal/
+data/processed/
+__pycache__/
+.DS_Store
+*.png
